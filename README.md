@@ -4,6 +4,6 @@ foo
 Testbed for whatever
 
 
-```shell
+```sh
 echo 'foo'
 ```
